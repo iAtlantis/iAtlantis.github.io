@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Uplon
         # Author title
-        author_title: Your title
+        author_title: 不破不立
         # Author's current location
-        location: Your location
+        location: 中国 上海
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
